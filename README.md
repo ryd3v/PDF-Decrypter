@@ -1,4 +1,4 @@
-# Cracking-PDF-archive
+# PDF decrypter
 
 For passwords 6 characters long(can be modified?)
 
